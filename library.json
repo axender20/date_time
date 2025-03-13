@@ -5,13 +5,13 @@
   "keywords": "delay_frms",
   "repository": {
       "type": "git",
-      "url": ""
+      "url": "https://github.com/axender20/date_time.git"
   },
   "authors": [
       {
-          "name": "axender20",
-          "email": "",
-          "maintainer": true
+          "name": "Adafruit",
+          "email": "https://www.adafruit.com/",
+          "maintainer": false
       }
   ],
   "license": "MIT",
